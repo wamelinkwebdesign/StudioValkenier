@@ -6,7 +6,7 @@ export const PROJECTS: Project[] = [
     title: 'Landgoed Rorik',
     client: 'Landgoed Rorik',
     year: '2022',
-    role: 'Landscape & Architecture',
+    role: 'Landscape and Architecture',
     thumbnail: 'https://storage.googleapis.com/studiovalkenier/landgoedrorik/01_1_wp_1600.jpg',
     videoPreview: 'https://storage.googleapis.com/studiovalkenier/landgoedrorik/LandgoedRorik.mp4',
     videoFull: 'https://storage.googleapis.com/studiovalkenier/landgoedrorik/LandgoedRorik.mp4',
